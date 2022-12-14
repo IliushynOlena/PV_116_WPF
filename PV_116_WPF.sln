@@ -9,9 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Containers_Layout_Positi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Controls_ProgressBar_Menu", "03_Controls_ProgressBar_Menu\03_Controls_ProgressBar_Menu.csproj", "{97A0880B-E2BE-4904-BEE4-9203B51AA6B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ List Controls_Collection_Binding", "04_ List Controls_Collection_Binding\04_ List Controls_Collection_Binding.csproj", "{A8C53E42-FDC9-40A2-871A-4DEFA2FBC8A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ List Controls_Collection_Binding", "04_ List Controls_Collection_Binding\04_ List Controls_Collection_Binding.csproj", "{A8C53E42-FDC9-40A2-871A-4DEFA2FBC8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ListBox_Binding", "05_ListBox_Binding\05_ListBox_Binding.csproj", "{C65FFD14-094E-46E7-B6C3-16D58A7AA805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_ListBox_Binding", "05_ListBox_Binding\05_ListBox_Binding.csproj", "{C65FFD14-094E-46E7-B6C3-16D58A7AA805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Data_Bindings_Data_Context", "06_Data_Bindings_Data_Context\06_Data_Bindings_Data_Context.csproj", "{236BDA97-EFD6-41DF-A892-82A1C4AF3B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_DataContext_Data_Binding", "07_DataContext_Data_Binding\07_DataContext_Data_Binding.csproj", "{DFA31BF9-A3C4-44A8-B326-6CD8A760859D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_PhoneBooBinding", "08_PhoneBooBinding\08_PhoneBooBinding.csproj", "{635BBB3E-E9E1-42EA-BC4B-0BB82B91925A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{C65FFD14-094E-46E7-B6C3-16D58A7AA805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C65FFD14-094E-46E7-B6C3-16D58A7AA805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C65FFD14-094E-46E7-B6C3-16D58A7AA805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236BDA97-EFD6-41DF-A892-82A1C4AF3B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236BDA97-EFD6-41DF-A892-82A1C4AF3B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236BDA97-EFD6-41DF-A892-82A1C4AF3B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236BDA97-EFD6-41DF-A892-82A1C4AF3B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA31BF9-A3C4-44A8-B326-6CD8A760859D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA31BF9-A3C4-44A8-B326-6CD8A760859D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA31BF9-A3C4-44A8-B326-6CD8A760859D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA31BF9-A3C4-44A8-B326-6CD8A760859D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635BBB3E-E9E1-42EA-BC4B-0BB82B91925A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635BBB3E-E9E1-42EA-BC4B-0BB82B91925A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635BBB3E-E9E1-42EA-BC4B-0BB82B91925A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635BBB3E-E9E1-42EA-BC4B-0BB82B91925A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
