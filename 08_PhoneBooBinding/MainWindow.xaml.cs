@@ -23,13 +23,9 @@ namespace _08_PhoneBooBinding
         public MainWindow()
         {
             InitializeComponent();          
-            this.DataContext = model;
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            model.DeleteteSelectionContact();
-        }
+            this.DataContext = model;          
+        }  
+      
     }
 
 }
